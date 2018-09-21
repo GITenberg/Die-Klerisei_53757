@@ -1,0 +1,39 @@
+_repo: Die-Klerisei_53757
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Luther, Arthur
+    birthdate: 1876
+    deathdate: 1955
+    gutenberg_agent_id: '39878'
+    url: http://www.gutenberg.org/2009/agents/39878
+creator:
+  author:
+    agent_name: Leskov, N. S. (Nikolai Semenovich)
+    aliases:
+    - Stebnitsky, M.
+    - Stebnitskii, M.
+    - Лесков, Н. С. (Николай Семенович)
+    - Leskow, Nikolaus
+    - Leskow, Nikolai
+    - Leskov, Nikolaj
+    birthdate: 1831
+    deathdate: 1895
+    gutenberg_agent_id: '45172'
+    url: http://www.gutenberg.org/2009/agents/45172
+description: ''
+gutenberg_issued: '2016-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53757'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Russian fiction -- Translations into German'
+- !lcc 'PG'
+- GITenberg
+title: Die Klerisei
+url: http://www.gutenberg.org/ebooks/53757
